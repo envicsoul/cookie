@@ -35,7 +35,7 @@ ul{
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
-    opacity: 1;
+
 }
 
 li a {
@@ -43,14 +43,14 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
-    opacity: 1;
+
 }
 
 /* Change the link color on hover */
 li a:hover {
     background-color: #555;
     color: white;
-    opacity: 1;
+
 }
 
 #name {
@@ -60,7 +60,7 @@ li a:hover {
 	font-size: 16px;
     font-family:'Trebuchet MS', Helvetica, sans-serif;
 	color: #ffffff;
-	opacity: 1;
+
 }
 
 #email{
@@ -70,14 +70,14 @@ li a:hover {
 	font-size: 16px;
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
-	opacity: 1;
+
 }
 
 h4 {
 	margin-left: 5px;
 	margin-bottom: 15px;
 	font-family: Verdana, sans-serif;
-	opacity: 1;
+
 }
 
 .right p {
@@ -85,13 +85,13 @@ h4 {
 	margin-right: 5px;
 	margin-top: -10px;
 	font-family: Garamond, serif;
-	opacity: 1;
+
 
 	color: #000000;
 }
 	img{
     width:200%; /* you can use % */
-    opacity: 1;
+
  
 }
 
@@ -111,7 +111,7 @@ a:hover {
 	width: 10%;
 	height: 400px;
 	margin-bottom: 10px;
-	opacity: 1;
+
 }
 
 .right {
@@ -122,7 +122,7 @@ a:hover {
 	height: 400px;
 	background-color: #FFFFFF;
 	margin-bottom: 10px;
-	opacity: 0.6;
+
 }
 
 #footer {
@@ -141,5 +141,5 @@ a:hover {
 #footer p {
 	position: relative;
 	padding-top: 15px;
-	opacity: 0.6;
+
 }
